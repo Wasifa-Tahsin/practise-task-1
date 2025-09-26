@@ -54,7 +54,7 @@ console.log(output);
 const students={
     name:'Afia',
     age:20,
-    movies:'Queen,AAA'
+    movies:['Queen','AAA']
 }
 
 const myVariable='age'
